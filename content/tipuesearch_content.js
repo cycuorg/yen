@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'Repository:  https://github.com/cycuorg/yen  ', 'tags': '', 'url': 'About.html'}]};
